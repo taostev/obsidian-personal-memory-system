@@ -1,0 +1,6 @@
+interface:
+  display_name: "Personal Memory"
+  short_description: "Manage Obsidian-backed personal memory"
+  default_prompt: "Use $personal-memory to load relevant Obsidian memory, apply triggers, and propose confirmed updates."
+policy:
+  allow_implicit_invocation: true
