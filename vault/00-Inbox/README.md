@@ -10,4 +10,3 @@
 - 项目内容移动或合并到 `20-Projects/<project>/`。
 - 触发规则移动或合并到 `30-Triggers/`。
 - 拒绝的候选项标记为 `status: rejected`，不要反复建议。
-
