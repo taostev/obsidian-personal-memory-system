@@ -16,4 +16,3 @@ priority: high
 8. At the end of substantial work, propose project decisions and stable preferences that are worth saving.
 9. Keep notes concise, actionable, and understandable without the AI.
 10. Report the exact note path after a successful write.
-

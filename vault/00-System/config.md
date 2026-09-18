@@ -9,6 +9,7 @@ status: active
 ## Vault identity
 
 - Vault name: `Personal Memory`
+- Domain directory: `15-Domains/`
 - Project directory: `20-Projects/`
 - Candidate directory: `00-Inbox/`
 - Trigger directory: `30-Triggers/`
@@ -29,4 +30,3 @@ Set `PERSONAL_MEMORY_VAULT` to the absolute path of this vault when using the Sk
 ## Date convention
 
 Use ISO dates (`YYYY-MM-DD`) and the user's local timezone. Keep dates in frontmatter and use Obsidian links for related notes.
-
