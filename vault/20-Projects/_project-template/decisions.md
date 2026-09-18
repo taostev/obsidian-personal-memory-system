@@ -20,4 +20,3 @@ priority: high
 - Alternatives considered:
 - Consequence:
 - Revisit when:
-

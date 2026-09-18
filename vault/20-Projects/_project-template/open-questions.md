@@ -12,4 +12,3 @@ priority: normal
 | Question | Owner | Due | Status |
 |---|---|---|---|
 |  |  |  | open |
-

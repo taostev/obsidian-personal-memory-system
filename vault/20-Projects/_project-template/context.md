@@ -23,4 +23,3 @@ priority: high
 ## Important links
 
 ## Notes
-
