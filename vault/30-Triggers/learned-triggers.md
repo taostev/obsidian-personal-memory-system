@@ -14,4 +14,3 @@ status: active
 - 记录证据日期和适用范围。
 - 默认先询问是否升级为 `status: active`。
 - 如果规则只适用于一个项目，保持 `scope: project:<project-slug>`。
-

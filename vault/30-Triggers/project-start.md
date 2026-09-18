@@ -21,4 +21,3 @@ source: user-confirmed
 # Project start
 
 在新项目开始时加载全局偏好和当前项目背景。若当前项目尚未建立目录，先识别项目名称，再建议从 `20-Projects/_project-template/` 复制模板。
-
